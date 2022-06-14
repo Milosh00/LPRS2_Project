@@ -6,4 +6,5 @@ Podešavanje projekta:
 	- Prebaciti program na Arduino UNO.
 	- Povezati step motore sa drajverom i arduinom.
 Napomena:
-	* Više o povezivanju Arduina sa komponentama u dokumentaciji.	
+	* Više o povezivanju Arduina sa komponentama u dokumentaciji.
+	* https://youtu.be/twCc67NtOCQ
